@@ -1,0 +1,18 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: brown;
+}
+
+h2,
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+h3 {
+    color: burlywood;
+}
